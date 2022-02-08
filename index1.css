@@ -87,6 +87,9 @@ footer{
   #contactSection{
     margin-top:14%;
   }
+  #Contact-heading {
+    margin-top: 53%;
+}
   #hide{
       display: none;
   }
